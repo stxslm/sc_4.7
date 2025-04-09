@@ -1,6 +1,4 @@
-# Web-Music-Player
+# 耀龙音乐
 #### 网页音乐播放器
-#### 实现了界面上所有的按钮功能，使用 js 实现。
-![image](https://github.com/wcytt/Web-Music-Player/raw/master/1-1.png) <br />
-![image](https://github.com/wcytt/Web-Music-Player/raw/master/1-2.png) <br />
-![image](https://github.com/wcytt/Web-Music-Player/raw/master/1-3.png) <br />
+#### 实现暂停/播放、切换曲目，调节音量、歌曲播放位置
+#### 使用 js 实现了页面横向变换、渐进渐远的轮播图等效果
